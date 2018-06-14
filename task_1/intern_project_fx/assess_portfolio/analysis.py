@@ -50,7 +50,7 @@ def assess_portfolio(sd = dt.datetime(2008,1,1), ed = dt.datetime(2009,1,1), \
 
     # we will sum value of all company for each day in order to calculate total value at end of each day
     total_porfolio_value=position_values.sum(axis=1)
-
+    print(total_porfolio_value)
     # Get portfolio statistics (note: std_daily_ret = volatility)
     normalized_total_portfolio_value=total_porfolio_value.divide(total_porfolio_value[0])
 
@@ -68,6 +68,7 @@ def assess_portfolio(sd = dt.datetime(2008,1,1), ed = dt.datetime(2009,1,1), \
     # a probability distribution tends to vary from the mean of the distribution
     sddr=daily_return.std()
 
+    # print(daily_return)
     # Sharpe ratio is the average return earned in excess of the risk-free rate per unit of  total 	risk.
     k=math.sqrt(sf)
     sr=k*(daily_return-rfr).mean()/sddr

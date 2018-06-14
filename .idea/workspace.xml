@@ -2,1050 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1b95a71-1145-4922-9b8f-be13ad96cae7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/task_3/defeat_learners/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task_5/Qlearning_robot/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task_5/Qlearning_robot/qlearning_robot/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task_5/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_1/intern_project_fx/assess_portfolio/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/task_1/intern_project_fx/assess_portfolio/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_1/intern_project_fx/assess_portfolio/grading/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/task_1/intern_project_fx/assess_portfolio/grading/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_2/Spr18_assess_learners/assess_learners/.cache/v/cache/lastfailed" beforeDir="false" afterPath="$PROJECT_DIR$/task_2/Spr18_assess_learners/assess_learners/.cache/v/cache/lastfailed" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_2/Spr18_assess_learners/assess_learners/DrawGraph.py" beforeDir="false" afterPath="$PROJECT_DIR$/task_2/Spr18_assess_learners/assess_learners/DrawGraph.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/$DJI.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/$SPX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/$VIX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/.~lock.SPY.csv#" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/A.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/AA.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/AAPL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ABC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ABI.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ABKFQ.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ABT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ACAS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ACE.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ACN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ACS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ADBE.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ADI.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ADM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ADP.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ADSK.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/AEE.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/AEP.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/AES.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/AET.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/AFL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/AGN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/AIG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/AIV.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/AIZ.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/AKAM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ALL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ALTR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ALXN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/AMAT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/AMD.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/AMGN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/AMP.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/AMT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/AMZN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/AN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ANF.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ANR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/AON.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/APA.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/APC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/APD.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/APH.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/APOL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ARG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ASH.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ATI.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/AVB.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/AVP.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/AVY.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/AXP.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/AYE.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/AZO.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/BA.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/BAC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/BAX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/BBBY.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/BBT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/BBY.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/BC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/BCR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/BDK.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/BDX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/BEAM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/BEN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/BF.B.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/BHI.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/BIG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/BIIB.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/BJS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/BK.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/BLK.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/BLL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/BMC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/BMS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/BMY.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/BRCM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/BRK.B.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/BRLI.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/BSC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/BSX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/BTU.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/BUD.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/BWA.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/BXP.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/C.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CA.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CAG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CAH.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CAM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CAT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CB.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CBE.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CBG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CBS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CBSH.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CCE.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CCI.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CCL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CCMO.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CCT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CEG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CELG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CERN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CF.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CFC+A.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CFN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CHK.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CHRW.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CI.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CIEN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CINF.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CIT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CLF.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CLX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CMA.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CMCSA.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CME.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CMG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CMI.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CMS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CNP.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CNX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/COF.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/COG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/COH.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/COL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/COP.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/COST.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/COV.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CPB.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CPWR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CRM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CSC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CSCO.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CSX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CTAS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CTL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CTSH.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CTX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CTXS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CVC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CVG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CVH.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CVS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/CVX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/D.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/DD.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/DDR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/DDS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/DE.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/DELL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/DF.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/DFS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/DGX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/DHI.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/DHR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/DIS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/DISCA.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/DLTR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/DNB.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/DNR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/DO.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/DOV.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/DOW.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/DPS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/DRI.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/DTE.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/DTV.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/DUK.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/DV.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/DVA.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/DVN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/DYN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/EA.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/EBAY.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ECL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ED.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/EDS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/EFX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/EIX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/EK.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/EL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/EMC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/EMN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/EMR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/EOG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/EP.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/EQ.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/EQR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/EQT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ERTS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ESRX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ESV.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ETFC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ETN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ETR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/EW.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/EXC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/EXPD.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/EXPE.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/F.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/FAKE1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/FAKE2.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/FAST.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/FCX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/FDO.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/FDX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/FE.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/FFIV.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/FHN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/FII.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/FIS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/FISV.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/FITB.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/FLIR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/FLR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/FLS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/FMC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/FMCC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/FNMA.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/FOSL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/FRX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/FSLR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/FTI.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/FTR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/GAS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/GCI.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/GD.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/GE.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/GENZ.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/GGP.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/GILD.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/GIS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/GLD.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/GLW.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/GM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/GME.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/GNW.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/GOOG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/GPC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/GPS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/GR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/GS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/GT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/GWW.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/HAL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/HAR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/HAS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/HBAN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/HCBK.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/HCN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/HCP.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/HD.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/HES.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/HIG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/HNZ.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/HOG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/HON.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/HOT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/HP.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/HPCCP.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/HPQ.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/HRB.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/HRL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/HRS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/HSP.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/HST.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/HSY.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/HUM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/IACI.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/IBM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ICE.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/IFF.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/IGT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/INTC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/INTU.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/IP.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/IPG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/IR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/IRM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ISRG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ITT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ITW.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/IVZ.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/IYR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/JAVA.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/JBL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/JCI.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/JCP.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/JDSU.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/JEC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/JNJ.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/JNPR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/JNS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/JNY.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/JOY.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/JPM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/JWN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/K.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/KBH.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/KEY.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/KFT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/KG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/KIM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/KLAC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/KMB.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/KMI.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/KMX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/KO.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/KR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/KSS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/L.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/LEG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/LEHMQ.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/LEN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/LH.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/LIFE.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/LIZ.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/LLL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/LLTC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/LLY.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/LM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/LMT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/LNC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/LO.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/LOW.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/LRCX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/LSI.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/LTD.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/LUK.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/LUV.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/LXK.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/LYB.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/Lists/index.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/Lists/sp5002008.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/Lists/sp5002012.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/M.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MA.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MAR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MAS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MAT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MBI.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MCD.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MCHP.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MCK.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MCO.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MDP.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MDT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MET.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MHP.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MHS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MI.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MIL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MJN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MKC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-000.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-001.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-002.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-003.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-004.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-005.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-006.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-007.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-008.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-009.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-010.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-011.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-012.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-013.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-014.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-015.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-016.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-017.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-018.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-019.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-020.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-021.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-022.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-023.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-024.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-025.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-026.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-027.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-028.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-029.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-030.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-031.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-032.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-033.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-034.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-035.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-036.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-037.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-038.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-039.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-040.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-041.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-042.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-043.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-044.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-045.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-046.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-047.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-048.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-049.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-050.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-051.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-052.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-053.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-054.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-055.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-056.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-057.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-058.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-059.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-060.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-061.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-062.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-063.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-064.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-065.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-066.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-067.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-068.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-069.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-070.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-071.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-072.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-073.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-074.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-075.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-076.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-077.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-078.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-079.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-080.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-081.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-082.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-083.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-084.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-085.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-086.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-087.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-088.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-089.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-090.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-091.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-092.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-093.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-094.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-095.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-096.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-097.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-098.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-099.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-100.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-101.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-102.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-103.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-104.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-105.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-106.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-107.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-108.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-109.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-110.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-111.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-112.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-113.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-114.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-115.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-116.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-117.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-118.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-119.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-120.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-121.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-122.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-123.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-124.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-125.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-126.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-127.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-128.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-129.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-130.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-131.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-132.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-133.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-134.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-135.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-136.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-137.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-138.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-139.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-140.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-141.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-142.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-143.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-144.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-145.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-146.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-147.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-148.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-149.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-150.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-151.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-152.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-153.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-154.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-155.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-156.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-157.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-158.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-159.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-160.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-161.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-162.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-163.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-164.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-165.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-166.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-167.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-168.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-169.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-170.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-171.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-172.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-173.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-174.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-175.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-176.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-177.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-178.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-179.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-180.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-181.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-182.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-183.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-184.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-185.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-186.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-187.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-188.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-189.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-190.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-191.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-192.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-193.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-194.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-195.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-196.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-197.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-198.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-199.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-200.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-201.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-202.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-203.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-204.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-205.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-206.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-207.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-208.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-209.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-210.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-211.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-212.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-213.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-214.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-215.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-216.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-217.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-218.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-219.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-220.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-221.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-222.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-223.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-224.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-225.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-226.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-227.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-228.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-229.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-230.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-231.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-232.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-233.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-234.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-235.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-236.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-237.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-238.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-239.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-240.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-241.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-242.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-243.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-244.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-245.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-246.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-247.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-248.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-249.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-250.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-251.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-252.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-253.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-254.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-255.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-256.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-257.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-258.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-259.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-260.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-261.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-262.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-263.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-264.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-265.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-266.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-267.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-268.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-269.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-270.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-271.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-272.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-273.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-274.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-275.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-276.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-277.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-278.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-279.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-280.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-281.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-282.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-283.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-284.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-285.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-286.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-287.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-288.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-289.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-290.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-291.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-292.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-293.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-294.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-295.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-296.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-297.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-298.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-299.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-300.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-301.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-302.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-303.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-304.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-305.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-306.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-307.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-308.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-309.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-310.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-311.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-312.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-313.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-314.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-315.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-316.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-317.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-318.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-319.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-320.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-321.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-322.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-323.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-324.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-325.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-326.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-327.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-328.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-329.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-330.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-331.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-332.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-333.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-334.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-335.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-336.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-337.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-338.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-339.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-340.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-341.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-342.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-343.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-344.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-345.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-346.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-347.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-348.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-349.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-350.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-351.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-352.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-353.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-354.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-355.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-356.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-357.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-358.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-359.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-360.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-361.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-362.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-363.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-364.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-365.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-366.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-367.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-368.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-369.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-370.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-371.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-372.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-373.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-374.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-375.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-376.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-377.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-378.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-379.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-380.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-381.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-382.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-383.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-384.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-385.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-386.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-387.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-388.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-389.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-390.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-391.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-392.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-393.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-394.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-395.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-396.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-397.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-398.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ML4T-399.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MMC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MMM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MNST.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MO.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MOLX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MON.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MOS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MPC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MRK.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MRO.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MSFT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MSI.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MTB.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MTG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MTW.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MU.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MUR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MWV.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MWW.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/MYL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/NBL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/NBR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/NCC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/NDAQ.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/NE.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/NEE.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/NEM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/NFLX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/NFX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/NI.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/NKE.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/NOC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/NOV.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/NOVL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/NRG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/NSC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/NSM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/NTAP.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/NTRS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/NU.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/NUE.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/NVDA.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/NVLS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/NWL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/NWSA.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/NYT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/NYX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ODP.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/OI.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/OKE.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/OMC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/OMX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ORCL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ORLY.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/OXY.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PAYX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PBCT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PBG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PBI.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PCAR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PCG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PCL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PCLN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PCP.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PCS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PDCO.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PEG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PEP.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PFE.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PFG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PGN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PGR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PH.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PHM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PKI.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PLD.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PLL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PNC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PNW.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/POM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PPG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PPL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PRGO.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PRU.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PSA.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PSX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PTV.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PWR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/PXD.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/Q.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/QCOM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/QEP.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/QLGC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/R.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/RAI.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/RDC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/RF.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/RHI.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/RHT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/RIG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/RL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ROH.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ROK.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ROP.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ROST.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/RRC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/RRD.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/RSG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/RSH.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/RTN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/S.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SAF.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SAI.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SBUX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SCG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SCHW.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SDS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SE.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SEE.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SGP.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SH.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SHLD.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SHW.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SIAL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SII.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SINE_FAST.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SINE_FAST_NOISE.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SINE_SLOW.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SINE_SLOW_NOISE.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SJM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SLB.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SLE.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SLM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SNA.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SNDK.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SNI.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SNV.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SO.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SPG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SPLS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SPY.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SRCL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SRE.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SSP.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/STI.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/STJ.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/STR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/STT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/STX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/STZ.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SUN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SVU.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SWK.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SWN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SWY.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SYK.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SYMC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/SYY.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/T.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/TAP.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/TDC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/TE.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/TEG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/TEL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/TER.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/TEX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/TGT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/THC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/TIE.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/TIF.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/TJX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/TLAB.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/TMK.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/TMO.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/TRIP.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/TROW.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/TRV.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/TSN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/TSO.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/TSS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/TWC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/TWX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/TXN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/TXT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/TYC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/UIS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/UNH.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/UNM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/UNP.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/UPS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/URBN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/USB.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/UST.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/UTX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/V.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/VAR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/VFC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/VIA.B.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/VIAB.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/VLO.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/VMC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/VNO.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/VRSN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/VTR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/VZ.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/WAG.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/WAMUQ.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/WAT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/WB.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/WDC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/WEC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/WEN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/WFC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/WFM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/WFR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/WFT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/WHR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/WIN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/WLP.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/WM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/WMB.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/WMT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/WPI.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/WPO.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/WPX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/WU.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/WWY.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/WY.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/WYE.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/WYN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/WYNN.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/X.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/XEL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/XL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/XLNX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/XOM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/XRAY.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/XRX.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/XTO.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/XYL.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/YHOO.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/YUM.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ZION.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/data/ZMH.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/marketsim/.cache/v/cache/lastfailed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/marketsim/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/marketsim/comments.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/marketsim/grade_marketsim.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/marketsim/grading/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/marketsim/grading/grade_parser.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/marketsim/grading/gradebook.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/marketsim/grading/grading.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/marketsim/grading/helper.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/marketsim/grading/merge_grades_tsq.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/marketsim/marketsim.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/marketsim/orders/.~lock.orders-02.csv#" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/marketsim/orders/orders-01.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/marketsim/orders/orders-02.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/marketsim/orders/orders-03.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/marketsim/orders/orders-04.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/marketsim/orders/orders-05.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/marketsim/orders/orders-06.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/marketsim/orders/orders-07.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/marketsim/orders/orders-08.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/marketsim/orders/orders-09.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/marketsim/orders/orders-10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/marketsim/orders/orders-11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/marketsim/orders/orders-12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/marketsim/points.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/Marketsim/marketsim/util.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/task_3/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_1/intern_project_fx/assess_portfolio/analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/task_1/intern_project_fx/assess_portfolio/analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_4/marketsim/marketsim.py" beforeDir="false" afterPath="$PROJECT_DIR$/task_4/marketsim/marketsim.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -1056,23 +19,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="grade_marketsim.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task_4/marketsim/grade_marketsim.py">
+      <file leaf-file-name="marketsim.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/task_4/marketsim/marketsim.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2832">
-              <caret line="63" column="6" lean-forward="true" selection-start-line="63" selection-start-column="6" selection-end-line="63" selection-end-column="6" />
+            <state relative-caret-position="24">
+              <caret line="132" lean-forward="true" selection-start-line="132" selection-end-line="132" />
+              <folding>
+                <element signature="e#132#143#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="marketsim.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/task_4/marketsim/marketsim.py">
+      <file leaf-file-name="analysis.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/task_1/intern_project_fx/assess_portfolio/analysis.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="104" />
-              <folding>
-                <element signature="e#134#153#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="342">
+              <caret line="54" column="4" lean-forward="true" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -1096,13 +59,18 @@
       <find>hereee</find>
       <find>orders-10</find>
       <find>get_</find>
-      <find>orders-</find>
-      <find>pri</find>
       <find>prin</find>
-      <find>print</find>
       <find>priceeeeeeeeee</find>
       <find>her</find>
       <find>here</find>
+      <find>sum</find>
+      <find>orders-</find>
+      <find>querysta</find>
+      <find>sr</find>
+      <find>shar</find>
+      <find>task_1.intern_project_fx.assess_portfolio.</find>
+      <find>pri</find>
+      <find>print</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -1111,7 +79,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/task_1/intern_project_fx/assess_portfolio/analysis.py" />
         <option value="$PROJECT_DIR$/task_1/grade_analysis.py" />
         <option value="$PROJECT_DIR$/task_1/intern_project_fx/assess_portfolio/grade_analysis.py" />
         <option value="$PROJECT_DIR$/task_1/__init__.py" />
@@ -1125,11 +92,17 @@
         <option value="$PROJECT_DIR$/task_1/intern_project_fx/assess_portfolio/grading/__init__.py" />
         <option value="$PROJECT_DIR$/task_3/Marketsim/marketsim/marketsim.py" />
         <option value="$PROJECT_DIR$/task_3/defeat_learners/DTLearner.py" />
-        <option value="$PROJECT_DIR$/__init__.py" />
         <option value="$PROJECT_DIR$/task_3/defeat_learners/__init__.py" />
         <option value="$PROJECT_DIR$/task_3/__init__.py" />
         <option value="$PROJECT_DIR$/task_2/Spr18_assess_learners/assess_learners/DrawGraph.py" />
         <option value="$PROJECT_DIR$/task_4/Marketsim/marketsim/marketsim.py" />
+        <option value="$PROJECT_DIR$/task_5/Qlearning_robot/qlearning_robot/testqlearner.py" />
+        <option value="$PROJECT_DIR$/task_5/Qlearning_robot/qlearning_robot/__init__.py" />
+        <option value="$PROJECT_DIR$/task_5/Qlearning_robot/__init__.py" />
+        <option value="$PROJECT_DIR$/task_5/__init__.py" />
+        <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/task_5/Qlearning_robot/qlearning_robot/QLearner.py" />
+        <option value="$PROJECT_DIR$/task_1/intern_project_fx/assess_portfolio/analysis.py" />
         <option value="$PROJECT_DIR$/task_4/marketsim/marketsim.py" />
       </list>
     </option>
@@ -1137,7 +110,7 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
     <option name="y" value="32" />
-    <option name="width" value="1853" />
+    <option name="width" value="781" />
     <option name="height" value="1048" />
   </component>
   <component name="ProjectView">
@@ -1145,6 +118,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1166,6 +140,13 @@
             <path>
               <item name="machine_learning_trading" type="b2602c69:ProjectViewProjectNode" />
               <item name="machine_learning_trading" type="462c0819:PsiDirectoryNode" />
+              <item name="task_1" type="462c0819:PsiDirectoryNode" />
+              <item name="intern_project_fx" type="462c0819:PsiDirectoryNode" />
+              <item name="assess_portfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="machine_learning_trading" type="b2602c69:ProjectViewProjectNode" />
+              <item name="machine_learning_trading" type="462c0819:PsiDirectoryNode" />
               <item name="task_4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -1174,11 +155,15 @@
               <item name="task_4" type="462c0819:PsiDirectoryNode" />
               <item name="marketsim" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="machine_learning_trading" type="b2602c69:ProjectViewProjectNode" />
+              <item name="machine_learning_trading" type="462c0819:PsiDirectoryNode" />
+              <item name="task_5" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1197,8 +182,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.grade_marketsim (2)">
-    <configuration name="grade_marketsim (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.marketsim">
+    <configuration name="QLearner" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="machine_learning_trading" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1206,11 +191,29 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task_4/Marketsim/marketsim" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task_5/Qlearning_robot/qlearning_robot" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_4/Marketsim/marketsim/grade_marketsim.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_5/Qlearning_robot/qlearning_robot/QLearner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="machine_learning_trading" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task_1/intern_project_fx/assess_portfolio" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_1/intern_project_fx/assess_portfolio/analysis.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1234,7 +237,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="grade_marketsim" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="grade_robot_qlearning" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="machine_learning_trading" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1242,29 +245,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task_4/intern_task3/marketsim" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task_5/Qlearning_robot/qlearning_robot" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_4/intern_task3/marketsim/grade_marketsim.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="marketsim (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="machine_learning_trading" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task_4/Marketsim/marketsim" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_4/Marketsim/marketsim/marketsim.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_5/Qlearning_robot/qlearning_robot/grade_robot_qlearning.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1289,19 +274,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.grade_marketsim (1)" />
-      <item itemvalue="Python.marketsim (1)" />
-      <item itemvalue="Python.grade_marketsim" />
       <item itemvalue="Python.grade_marketsim (2)" />
       <item itemvalue="Python.marketsim" />
+      <item itemvalue="Python.grade_robot_qlearning" />
+      <item itemvalue="Python.QLearner" />
+      <item itemvalue="Python.analysis" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.grade_marketsim (2)" />
         <item itemvalue="Python.marketsim" />
-        <item itemvalue="Python.grade_marketsim (1)" />
-        <item itemvalue="Python.grade_marketsim" />
-        <item itemvalue="Python.marketsim (1)" />
+        <item itemvalue="Python.grade_marketsim (2)" />
+        <item itemvalue="Python.analysis" />
+        <item itemvalue="Python.QLearner" />
+        <item itemvalue="Python.grade_robot_qlearning" />
       </list>
     </recent_temporary>
   </component>
@@ -1322,12 +307,12 @@
     <frame x="67" y="32" width="1853" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.39071774" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18942256" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37826088" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3576087" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -1352,93 +337,10 @@
           <line>242</line>
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/task_1/intern_project_fx/assess_portfolio/grading/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task_1/intern_project_fx/assess_portfolio/grading/grade_parser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task_1/intern_project_fx/assess_portfolio/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" selection-start-column="27" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task_1/intern_project_fx/assess_portfolio/analysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2208">
-          <caret line="96" column="11" lean-forward="true" selection-start-line="96" selection-start-column="11" selection-end-line="96" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task_3/Marketsim/marketsim/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/task_1/Spr18_assess_portfolio/assess_portfolio/analysis.py" />
-    <entry file="file://$PROJECT_DIR$/task_1/Spr18_assess_portfolio/assess_portfolio/grade_analysis.py" />
-    <entry file="file://$PROJECT_DIR$/task_1/grade_analysis.py" />
-    <entry file="file://$PROJECT_DIR$/task_1/assess_portfolio/grade_analysis.py" />
-    <entry file="file://$PROJECT_DIR$/task_2/Spr18_assess_learners/assess_learners/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task_2/Spr18_assess_learners/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task_2/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task_3/Marketsim/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/task_1/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="31" selection-start-column="31" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task_1/intern_project_fx/README.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task_1/intern_project_fx/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task_3/Marketsim/marketsim/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/task_1/intern_project_fx/assess_portfolio/analysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2208">
-          <caret line="96" column="11" selection-start-line="96" selection-start-column="11" selection-end-line="96" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task_1/intern_project_fx/assess_portfolio/grading/grade_parser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/task_1/intern_project_fx/assess_portfolio/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1458,13 +360,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/task_3/Marketsim/marketsim/orders/orders-02.csv" />
     <entry file="file://$PROJECT_DIR$/task_3/Marketsim/marketsim/util.py" />
-    <entry file="file://$USER_HOME$/ml4t-venv/local/lib/python2.7/site-packages/pandas/core/generic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="1572" selection-start-line="1572" selection-end-line="1572" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/ml4t-venv/local/lib/python2.7/site-packages/pandas/core/indexes/base.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -1517,13 +412,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" selection-start-column="27" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/task_3/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1567,19 +455,168 @@
     <entry file="file://$PROJECT_DIR$/task_4/Marketsim/marketsim/marketsim.py" />
     <entry file="file://$PROJECT_DIR$/task_4/Marketsim/marketsim/grade_marketsim.py" />
     <entry file="file://$PROJECT_DIR$/task_4/intern_task3/marketsim/grade_marketsim.py" />
+    <entry file="file://$PROJECT_DIR$/task_5/Qlearning_robot/qlearning_robot/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_5/Qlearning_robot/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_5/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_5/Qlearning_robot/qlearning_robot/testqlearner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2760">
+          <caret line="119" selection-start-line="119" selection-end-line="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_5/Qlearning_robot/qlearning_robot/grade_robot_qlearning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_1/intern_project_fx/assess_portfolio/comments.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_5/Qlearning_robot/qlearning_robot/grading/grade_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_5/Qlearning_robot/qlearning_robot/grading/gradebook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_5/Qlearning_robot/qlearning_robot/grading/grading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="72" column="14" lean-forward="true" selection-start-line="72" selection-start-column="14" selection-end-line="72" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_5/Qlearning_robot/qlearning_robot/grading/helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_5/Qlearning_robot/qlearning_robot/grading/merge_grades_tsq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_4/marketsim/orders/orders-02.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="22" lean-forward="true" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_5/Qlearning_robot/qlearning_robot/QLearner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="112" column="24" lean-forward="true" selection-start-line="112" selection-start-column="24" selection-end-line="112" selection-end-column="24" />
+          <folding>
+            <element signature="e#1#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_4/marketsim/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_4/marketsim/orders/orders-03.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_4/data/SPY.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_1/intern_project_fx/assess_portfolio/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/task_4/marketsim/grade_marketsim.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2832">
-          <caret line="63" column="6" lean-forward="true" selection-start-line="63" selection-start-column="6" selection-end-line="63" selection-end-column="6" />
+        <state relative-caret-position="244">
+          <caret line="352" column="24" lean-forward="true" selection-start-line="352" selection-start-column="24" selection-end-line="352" selection-end-column="24" />
+          <folding>
+            <element signature="e#413#426#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_1/intern_project_fx/assess_portfolio/analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="54" column="4" lean-forward="true" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/ml4t-venv/local/lib/python2.7/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="2684" selection-start-line="2684" selection-end-line="2684" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/ml4t-venv/local/lib/python2.7/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="2483" selection-start-line="2483" selection-end-line="2483" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/task_4/marketsim/marketsim.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="104" />
+        <state relative-caret-position="24">
+          <caret line="132" lean-forward="true" selection-start-line="132" selection-end-line="132" />
           <folding>
-            <element signature="e#134#153#0" expanded="true" />
+            <element signature="e#132#143#0" expanded="true" />
           </folding>
         </state>
       </provider>

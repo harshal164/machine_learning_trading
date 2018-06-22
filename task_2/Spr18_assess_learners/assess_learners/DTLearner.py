@@ -63,7 +63,7 @@ class DTLearner(object):
             best_feature_i = features_correlation[feat_corr_i][0]
             best_abs_corr = features_correlation[feat_corr_i][1]
 
-            # Split the data according to the best feature
+        scii   # Split the data according to the best feature
             split_val = np.median(dataX[:, best_feature_i])
 
             # left_index contains bool type array of dataX
